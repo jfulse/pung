@@ -1,9 +1,9 @@
 import React from 'react';
 
+import Screen from './components/Screen';
+
 const App = () => (
-  <div>
-    Blank Project
-  </div>
+  <Screen />
 );
 
 export default App;
